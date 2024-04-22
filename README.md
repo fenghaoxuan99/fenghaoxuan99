@@ -17,4 +17,4 @@ Here is some personal information about me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenghaoxuan99&show_icons=true&theme=ambient_gradient&count_private=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=JXLclanguage)](https://github.com/fenghaoxuan99/JXLclanguage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fenghaoxuan99&repo=JXLclanguage)](https://github.com/fenghaoxuan99/JXLclanguage)
