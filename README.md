@@ -1,12 +1,12 @@
-### 🚀 Welcome to luffyZh Zone
+### 🚀 Welcome to fenghaoxuan00
 
 Here is some personal information about me:
 
-- 🔭 I'm Chinese and currently working in Hangzhou.
-- 📖 I'm currently learning && using React.js/Next.js...
+- 🔭 I'm Chinese and currently studying in Beijing.
+- 📖 I'm currently learning && using C/C++...
 - 🌱 Ask me about any question about my repos or directly give me a issue/pr~
-- 📫 How to reach me: zhoudeyou945@126.com.
-- 💬 Wechat: zhoudeyou945.
+- 📫 How to reach me: 1804831168@qq.com.
+- 💬 Wechat:   qingshan1804831168.
 
 **🔧 Language && Tools**  
 
